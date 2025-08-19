@@ -1,0 +1,238 @@
+# -------------------------------
+# Node.js
+# -------------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# -------------------------------
+# .NET / Visual Studio
+# -------------------------------
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.log
+*.pdb
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.Publish.xml
+*.pubxml
+*.publishproj
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+artifacts/
+Migrations/
+Generated\ Files/
+TestResult.xml
+nunit-*.xml
+*.VisualState.xml
+BenchmarkDotNet.Artifacts/
+project.lock.json
+project.fragment.lock.json
+ScaffoldingReadMe.txt
+StyleCopReport.xml
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+!Directory.Build.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+_Chutzpah*
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.e2e
+$tf/
+*.gpState
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+_TeamCity*
+*.dotCover
+.axoCover/*
+!.axoCover/settings.json
+coverage*.json
+coverage*.xml
+coverage*.info
+*.coverage
+*.coveragexml
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+*.mm.*
+AutoTest.Net/
+.sass-cache/
+[Ee]xpress/
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+publish/
+PublishScripts/
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+csx/
+*.build.csdef
+ecf/
+rcf/
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+*.[Cc]ache
+!?*.[Cc]ache/
+ClientBin/
+~$*
+*~
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+Generated_Code/
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+*.mdf
+*.ldf
+*.ndf
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+FakesAssemblies/
+*.GhostDoc.xml
+.ntvs_analysis.dat
+*.plg
+*.opt
+*.vbw
+*.vbp
+*.dsw
+*.dsp
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+.paket/paket.exe
+paket-files/
+.fake/
+.cr/personal
+__pycache__/
+*.pyc
+*.tss
+*.jmconfig
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+OpenCover/
+ASALocalRun/
+*.binlog
+*.nvuser
+.mfractor/
+.localhistory/
+.vshistory/
+healthchecksdb
+MigrationBackup/
+.ionide/
+FodyWeavers.xsd
+*.sln.iml
+
+# -------------------------------
+# ASP.NET / C#
+# -------------------------------
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+
+# -------------------------------
+# WordPress
+# -------------------------------
+applications/wordpress/
+applications/wordpress/wp-app/
+applications/wordpress/wp-data/
+applications/wordpress/wp-content/cache/
+applications/wordpress/wp-content/uploads/
+
+# -------------------------------
+# IDEs & Editors
+# -------------------------------
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.bak
+*.tmp
+.history/
+.vshistory/
+.localhistory/
+
+# -------------------------------
+# OS Generated
+# -------------------------------
+Thumbs.db
+ehthumbs.db
+.DS_Store
+Icon?
+desktop.ini
+
+# -------------------------------
+# Environment & Secrets
+# -------------------------------
+.env
+
+# -------------------------------
+# Logs
+# -------------------------------
+*.log
