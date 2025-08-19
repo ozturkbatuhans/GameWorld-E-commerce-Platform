@@ -65,7 +65,7 @@ integrating multiple technologies.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/[your-username]/gameworld-ecommerce.git
+git clone "github link" 
 cd gameworld-ecommerce
 ```
 
